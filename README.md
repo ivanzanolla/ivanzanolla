@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ivanzanolla
-- 👀 I’m interested in C#, .NET, ASP.NET, Angular, TypeScript, JavaScript, HTML, CSS, docker, cloud
-- 🌱 I’m currently learning the stuff above
-- 💞️ I’m looking to collaborate on web projects, cloud computing, machine learning, docker and so on
-- 📫 How to reach me: see the white rabbit, I'm joking you. Twitter @izanolla or surf the net.
+- 👋 Hi, I’m Ivan!
+- 👀 I have a strong interest in C#, .NET, ASP.NET, design patterns, Web API, WPF, and other exciting technologies.
+- 🌱 I’m continuously expanding my knowledge in these areas and always eager to learn more.
+- 💞️ I’m looking to collaborate on .NET projects, cloud solutions, machine learning, and beyond.
+- 📫 Want to get in touch? Follow the white rabbit! Just kidding 😄. You can find me on X (formerly Twitter) @izanolla or [LinkedIn](https://www.linkedin.com/in/ivanzanolla/)
 
 <!---
 ivanzanolla/ivanzanolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
