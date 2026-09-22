@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Ivan!
-- 👀 I have a strong interest in .NET, C#, ASP.NET and Web API, WPF, design patterns and other exciting techniques and technologies.
-- 🌱 I’m continuously expanding my knowledge in these areas and always eager to learn more.
-- 👨🏻‍💻 I’m looking to collaborate on .NET projects, cloud solutions, machine learning and beyond.
-- 📫 Want to get in touch? Follow the white rabbit! Just kidding 😄. You can find me on [LinkedIn](https://www.linkedin.com/in/ivanzanolla/) or on [X](https://x.com/izanolla)
+# Ivan Zanolla
 
-<!---
-ivanzanolla/ivanzanolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend .NET developer — 16 years of experience modernizing long-lived legacy systems without breaking production.
+
+## Currently
+
+- .NET Framework 4.8 → .NET 8 migration at Siav (Virgilio — digital document preservation)
+- Reverse-engineering undocumented legacy components (WCF, WPF, WinForms)
+- JWT-based authentication from scratch, Azure DevOps CI/CD with automated API testing
+- 5+ years full-remote, working with English-speaking teams
+
+## Stack
+
+C# · ASP.NET WebAPI · WPF (Telerik, DevExpress) · WCF · SQL Server / Oracle / PostgreSQL · NHibernate / EF · Azure DevOps · Docker/K8s (base) · C/C++11 · Bash
+
+Member of the XE .NET user group.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ivanzanolla/)
+- Full-remote · open to EU relocation
