@@ -7,13 +7,11 @@ Backend .NET developer — 16 years of experience modernizing long-lived legacy 
 - .NET Framework 4.8 → .NET 8 migration at Siav (Virgilio — digital document preservation)
 - Reverse-engineering undocumented legacy components (WCF, WPF, WinForms)
 - JWT-based authentication from scratch, Azure DevOps CI/CD with automated API testing
-- 5+ years full-remote, working with English-speaking teams
+- 5+ years full-remote
 
 ## Stack
 
-C# · ASP.NET WebAPI · WPF (Telerik, DevExpress) · WCF · SQL Server / Oracle / PostgreSQL · NHibernate / EF · Azure DevOps · Docker/K8s (base) · C/C++11 · Bash
-
-Member of the XE .NET user group.
+C# · ASP.NET WebAPI · WPF (Telerik, DevExpress) · WCF · SQL Server / Oracle / PostgreSQL · NHibernate / EF · Azure DevOps · Bash
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ivanzanolla/)
 - Full-remote · open to EU relocation
