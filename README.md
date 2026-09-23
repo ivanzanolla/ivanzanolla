@@ -11,7 +11,7 @@ Backend .NET developer: 16 years of experience modernizing long-lived legacy sys
 
 ## Stack
 
-C# · ASP.NET WebAPI · WPF (Telerik, DevExpress) · WCF · SQL Server / Oracle / PostgreSQL · NHibernate / EF · Azure DevOps · Bash
+C# · ASP.NET WebAPI · WPF (Telerik, DevExpress) · WCF · SQL Server / Oracle / NHibernate · Azure DevOps · Bash
 
 ## Info
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ivanzanolla/)
